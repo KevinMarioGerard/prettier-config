@@ -1,0 +1,25 @@
+{
+  "name": "@kmgerard/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinMarioGerard/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Kevin Mario Gerard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinMarioGerard/prettier-config/issues"
+  },
+  "homepage": "https://github.com/KevinMarioGerard/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.0.0"
+  }
+}
